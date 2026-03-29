@@ -235,7 +235,7 @@ a {
 }
 @media (max-width: 767px) {
   .creator-card.creator-card--1 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), linear-gradient(0deg, #000000, #000000), url("mob_image_1.png");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), linear-gradient(0deg, #000000, #000000), url("image_1.png");
     background-position: right top !important;
   }
 }
